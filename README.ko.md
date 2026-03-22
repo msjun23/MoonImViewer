@@ -28,7 +28,6 @@
 
 MoonImViewer를 사용하는 가장 쉬운 방법은 GitHub Releases에서 최신 빌드를 다운로드하는 것입니다.
 
-- 최신 버전: **v2.0.1**
 - macOS: `MoonImViewer-xxx-macos.zip`
 - Windows: `MoonImViewer-xxx-windows.zip`
 

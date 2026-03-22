@@ -28,7 +28,6 @@ Instead of making you open files one by one, it gives you a fast thumbnail grid,
 
 The simplest way to use MoonImViewer is to download the latest app build from GitHub Releases.
 
-- Latest version: **v2.0.1**
 - macOS: `MoonImViewer-xxx-macos.zip`
 - Windows: `MoonImViewer-xxx-windows.zip`
 
